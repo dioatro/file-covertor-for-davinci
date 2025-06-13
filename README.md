@@ -4,7 +4,7 @@ This project helps to achive seemlessly convert video files to support Davinci R
 
 ## 📦Dependencies 
 
-\`\`\` python3 ffmpeg \`\`\`
+``` python3 ffmpeg ```
 
 ## 🤔How to use?
 

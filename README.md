@@ -1,6 +1,7 @@
 # File Converter For Davinci Resolve Studio on LINUX 🐧
 
-This project helps to achive seemlessly convert video files to support Davinci Resolve Studio on Linux.
+This project helps to achive seemlessly convertion of video files 
+to support Davinci Resolve Studio on Linux.
 
 ## 📦Dependencies 
 

@@ -23,4 +23,4 @@ def main(): # menu
     elif startapp=='n' or startapp =='N':
         print("Exiting the app.")
 
-main() #testing
+main() 

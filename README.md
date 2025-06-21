@@ -25,4 +25,4 @@ to support Davinci Resolve Studio on Linux.
 
 - Native File search 
 
-- Histroy of files converted
+- History of files converted
